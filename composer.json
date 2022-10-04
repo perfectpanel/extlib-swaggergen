@@ -1,13 +1,13 @@
 {
-	"name": "vanderlee/swaggergen",
+	"name": "perfectpanel/swaggergen",
 	"description": "Generate Swagger/OpenAPI documentation from simple PHPdoc-like comments in PHP source code.",
 	"type": "library",
 	"keywords": ["swagger", "openapi", "doc", "documentation", "rest", "api", "documentor", "comments", "generate", "generator"],
-	"homepage": "https://github.com/vanderlee/PHPSwaggerGen",
+	"homepage": "https://github.com/perfectpanel/ExtlibPHPSwaggerGen",
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/vanderlee/PHPSwaggerGen/issues",
-		"source": "https://github.com/vanderlee/PHPSwaggerGen/"
+		"issues": "https://github.com/perfectpanel/PHPSwaggerGen/issues",
+		"source": "https://github.com/perfectpanel/PHPSwaggerGen/"
 	},
 	"require": {
 		"php": ">=7.1.0",

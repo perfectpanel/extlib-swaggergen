@@ -43,7 +43,7 @@ continue to work on PHP 5.3 in the future.
 
 To install using Composer:
 
-	composer require vanderlee/swaggergen
+	composer require perfectpanel/swaggergen
 
 Make sure you use version 2.x.x or up.
 
