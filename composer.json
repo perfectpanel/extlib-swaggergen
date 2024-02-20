@@ -1,13 +1,13 @@
 {
-	"name": "perfectpanel/swaggergen",
+	"name": "perfectpanel/extlib-swaggergen",
 	"description": "Generate Swagger/OpenAPI documentation from simple PHPdoc-like comments in PHP source code.",
 	"type": "library",
 	"keywords": ["swagger", "openapi", "doc", "documentation", "rest", "api", "documentor", "comments", "generate", "generator"],
-	"homepage": "https://github.com/perfectpanel/ExtlibPHPSwaggerGen",
+	"homepage": "https://github.com/perfectpanel/extlib-swaggergen",
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/perfectpanel/PHPSwaggerGen/issues",
-		"source": "https://github.com/perfectpanel/PHPSwaggerGen/"
+		"issues": "https://github.com/perfectpanel/extlib-swaggergen/issues",
+		"source": "https://github.com/perfectpanel/extlib-swaggergen/"
 	},
 	"require": {
 		"php": ">=7.1.0",
